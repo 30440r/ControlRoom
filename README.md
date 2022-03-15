@@ -16,6 +16,9 @@ You’ll need Xcode 12.0 or later to build and use Control Room on your Mac.
 
 
 ## Installation
+Download this, that's it.                                                                                                                    
+
+## Building
 
 To try Control Room yourself, download the code and build it through Xcode. It’s built using SwiftUI, so you’ll need macOS Big Sur in order to run it. You will also need Xcode installed, because it relies on the **simctl** command being present – if you see an error that you’re missing the command line tools, go to Xcode's Preferences, choose the Locations tab, then make sure Xcode is selected for Command Line Tools.
 
@@ -43,6 +46,8 @@ If you spot any errors please open an issue and let us know which macOS and Xcod
 ## Credits
 
 Control Room was originally designed and built by Paul Hudson, and is copyright © Paul Hudson 2021. The icon was designed by Raphael Lopes.
+
+Control Room is now developed by 30440r, and is copyright © 30440r 2022.
 
 Control Room is licensed under the MIT license; for the full license please see the [LICENSE file](LICENSE). Many other folks have contributed features, fixes, and more to make Control Room what it is today. Control Room is built on top of Apple’s **simctl** command – the team who built that deserve the real credit here.
 
