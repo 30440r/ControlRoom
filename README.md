@@ -5,8 +5,8 @@
 <p align="center">
     <img src="https://img.shields.io/badge/macOS-11+-blue.svg" />
     <img src="https://img.shields.io/badge/Swift-5.3-brightgreen.svg" />
-    <a href="https://twitter.com/twostraws">
-        <img src="https://img.shields.io/badge/Contact-@twostraws-lightgrey.svg?style=flat" alt="Twitter: @twostraws" />
+    <a href="https://twitter.com/30440r">
+        <img src="https://img.shields.io/badge/Contact-@30440r-lightgrey.svg?style=flat" alt="Twitter: @30440r" />
     </a>
 </p>
 
